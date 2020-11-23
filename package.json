@@ -23,7 +23,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nareshnavinash/newman-run.git"
+    "url": "git+https://github.com/rsipa/newman-run.git"
   },
   "keywords": [
     "newman",
@@ -36,10 +36,11 @@
     "reporter",
     "allure"
   ],
-  "author": "Naresh Sekar",
+  "author": "RSIPA",
+  "contributor": "Naresh Sekar",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/nareshnavinash/newman-run/issues"
+    "url": "https://github.com/rsipa/newman-run/issues"
   },
-  "homepage": "https://github.com/nareshnavinash/newman-run#readme"
+  "homepage": "https://github.com/rsipa/newman-run#readme"
 }
